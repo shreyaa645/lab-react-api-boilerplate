@@ -1,0 +1,35 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.image{
+    margin-right: 14px;
+}
+
+
+img{
+    height: 220px;
+    width: 160px;
+}
+
+h3{
+    font-size: 19px;
+    width: 280px;
+    font-weight: bold;
+    margin-bottom: 28px;
+}
+
+.author-name{
+    margin-top: 14px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+p{
+    display: flex;
+    margin-top: 42px;
+    font-size: 16px;
+    text-align: start;
+}
